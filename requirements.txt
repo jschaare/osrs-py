@@ -1,0 +1,4 @@
+requests
+tinydb
+yarl
+pytest
