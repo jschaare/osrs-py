@@ -21,7 +21,6 @@ class Player(object):
 
     def update(self) -> None:
         blob = self._get_data()
-        print(blob)
         self._set_data(blob)
 
     def _get_data(self) -> str:
